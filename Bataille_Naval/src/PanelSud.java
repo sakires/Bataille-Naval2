@@ -4,7 +4,7 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-public class PanelSud extends JPanel /*implements */{
+public class PanelSud extends JPanel{
 	/**
 	 * 
 	 */
